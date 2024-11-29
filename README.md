@@ -1,4 +1,6 @@
-# Instructor Demo: Configuring GitHub Actions
+# gh-Actions
+
+## Instructor Demo: Configuring GitHub Actions
 
 At this point in the course, you are well aware that GitHub is a very powerful tool for collaborating with multiple users on the same project. Collaboration inevitably will cause some conflicts whether that be within the code itself or with your overall workflow. On occasion some errors will slip past a local linter and make their way into pull requests. Wouldn't it be nice to automate something like linting before each pull request?
 
@@ -114,4 +116,3 @@ Now it's time to give our linter something to complain about! We will make some 
 ## Conclusion
 
 Congratulations on gaining experience with GitHub Actions! This powerful feature can become part of your CI/CD pipeline, providing valuable automation and efficiency. While you might not use it for every project, it can be especially useful for group projects or large organizations.
-# gh-Actions
